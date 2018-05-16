@@ -7,6 +7,8 @@
 A native implementation of [TLS][] (and various other cryptographic tools) in
 [JavaScript][].
 
+**This fork fixes the handling of GeneralizedTime in X.509 certificates (validity dates outside of 1950 to 2050).**
+
 Introduction
 ------------
 

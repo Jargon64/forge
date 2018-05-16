@@ -1,6 +1,6 @@
 {
   "name": "node-forge",
-  "version": "0.7.6-dev",
+  "version": "0.7.7-dev",
   "description": "JavaScript implementations of network transports, cryptography, ciphers, PKI, message digests, and various utilities.",
   "homepage": "https://github.com/digitalbazaar/forge",
   "author": {
@@ -12,7 +12,8 @@
     "Dave Longley <dlongley@digitalbazaar.com>",
     "David I. Lehn <dlehn@digitalbazaar.com>",
     "Stefan Siegl <stesie@brokenpipe.de>",
-    "Christoph Dorn <christoph@christophdorn.com>"
+    "Christoph Dorn <christoph@christophdorn.com>",
+    "James Jarman <jargon@jargonia.co.uk>"
   ],
   "devDependencies": {
     "browserify": "^16.1.0",
